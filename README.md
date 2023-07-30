@@ -8,9 +8,9 @@ as activation function of hidden layer and ”softmax” as activation function 
 optimizer.
 * The final model had an accuracy of 0.97.
 
-Dataset used-MNIST.
+Dataset used-MNIST(contains 60,000 training images and 10,000 testing images).
 
-Image of digits ranging from 0-9 has a size of 28X28 pixel.
+Image of digits ranging from 1-9 has a size of 28X28 pixel.
 
 Use of resnet architectures increase the accuracy of the model further.Resnet-18,34 or 50 can be used to further enhance the model.
 
