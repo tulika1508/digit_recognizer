@@ -13,4 +13,5 @@ Dataset used-MNIST(contains 60,000 training images and 10,000 testing images).
 Image of digits ranging from 1-9 has a size of 28X28 pixel.
 
 Use of resnet architectures increase the accuracy of the model further.Resnet-18,34 or 50 can be used to further enhance the model.
+Here I have used Resnet-18 to increase the accuracy to 0.99.
 
